@@ -1,0 +1,13 @@
+.main-container {
+  width: 50%;
+  margin: 10px auto;
+  border-style: solid;
+  border-color: black;  
+  padding: 5px;   
+  text-align: center;
+}
+
+.user-form {  
+    align-items: center;
+    display: grid;
+}
